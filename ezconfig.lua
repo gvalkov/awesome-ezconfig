@@ -2,6 +2,8 @@
 --
 -- Author: Georgi Valkov <georgi.t.valkov@gmail.com>
 -- License: GPLv2
+-- Version: 1.0
+-- URL: https://github.com/gvalkov/awesome-ezconfig
 --
 -- Usage:
 --   ezconfig = require('ezconfig')
